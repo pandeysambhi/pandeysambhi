@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sambhavi(Sam)</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
+- 🌱 I’m currently learning **Go**
+
 - 💬 Ask me about **React, Javascript, Java, Node**
 
 - 📫 How to reach me **pandeysambhi@gmail.com**
